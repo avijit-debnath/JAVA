@@ -1,0 +1,15 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Strings",
+        "Stacks",
+        "Recursion",
+        "LinkedList",
+        "ArrayList",
+        "2D Array",
+        "14.Sorting Technique",
+        "13.Arrays",
+        "12. Patterns 2",
+        "BinaryTree"
+    ]
+}
